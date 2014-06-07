@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+}
+
+.large-logo {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+a { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
+.social img {
+  width: 64px;
+  margin-bottom: 40px;
+}
